@@ -4,4 +4,5 @@ Group Members Are:
 James Filip,
 Jesse Caddell,
 Sarah Bright,
-Nickolas Ramirez
+Nickolas Ramirez,
+Eamon Sheehy
